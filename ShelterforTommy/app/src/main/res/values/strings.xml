@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Shelter for Tommy</string>
+    <string name="submit">Submit</string>
+    <string name="category_overview">Overview</string>
+    <string name="hint_pet_name">Name</string>
+    <string name="hint_pet_breed">Breed</string>
+    <string name="category_gender">Gender</string>
+    <string name="category_measurement">Weight</string>
+    <string name="hint_pet_weight">Weight</string>
+    <string name="unit_pet_weight">kg</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_pets">Delete All Pets</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <!-- Label for dropdown menu option if the pet's gender is unknown [CHAR LIMIT=20] -->
+    <string name="gender_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option if the pet is male [CHAR LIMIT=20] -->
+    <string name="gender_male">Male</string>
+
+    <!-- Label for dropdown menu option if the pet is female [CHAR LIMIT=20] -->
+    <string name="gender_female">Female</string>
+    <string name="editor_activity_title_new_pet">Add a Pet</string>
+    <string name="number_of_rows_in_pets_table_message">\"Number of rows in pets database table: \"</string>
+    <string name="splash_screenText">Tommy\'s Pet Shelter</string>
+    <string name="empty_view_title_text">Nothing to show</string>
+    <string name="empty_view_subtitle_text">Get started by adding one...</string>
+    <string name="add_a_pet">Add a Pet</string>
+    <string name="edit_the_clicked_pet">Edit Pet</string>
+    <string name="unsaved_changes_dialog_message">Do you want to save the changes?</string>
+    <string name="discard_changes">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_message">Do you want to delete this entry?</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_pet_successful">Entry Deleted Successfully</string>
+    <string name="deletion_operation_failed">Deletion failed!</string>
+    <string name="unknown_breed">Unknown Breed</string>
+</resources>
